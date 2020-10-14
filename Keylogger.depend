@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602712581 source:c:\users\hp\documents\keylogger\main.cpp
+	<iostream>
+	<string>
+
+1602712537 source:c:\users\hp\documents\keylogger\temp.cpp
+	<iostream>
+	<string>
+
